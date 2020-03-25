@@ -1,0 +1,11 @@
+.row {
+    /*margin-bottom: 12px;*/
+    grid-column-gap: 100px
+}
+
+.column p {
+    /*margin-bottom: 0px;*/
+    text-align: center;
+    padding: 25px;
+    background-color: #ebebeb;
+}
